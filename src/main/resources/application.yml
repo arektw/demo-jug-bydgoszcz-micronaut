@@ -1,0 +1,9 @@
+micronaut:
+  application:
+    name: jugDemoMicronaut
+netty:
+  default:
+    allocator:
+      max-order: 3
+app:
+  returned-string: "Hi Bydgoszcz!"
